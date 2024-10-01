@@ -35,5 +35,6 @@ To run the server, use the following command:
 
 ```bash
 npm run dev
+And All Set
 ```
 
