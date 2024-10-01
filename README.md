@@ -4,7 +4,7 @@ Here's README template :
 
 # Project Name
 
-Medical Search Engine
+DAWAIKO
 
 
 ## Installation
@@ -35,6 +35,7 @@ To run the server, use the following command:
 
 ```bash
 npm run dev
-And All Set
 ```
+
+And All Set
 
