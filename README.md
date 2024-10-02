@@ -4,7 +4,7 @@ Here's README template :
 
 # Project Name
 
-DAWAIKO
+DAWAIKO-Medicos
 
 
 ## Installation
